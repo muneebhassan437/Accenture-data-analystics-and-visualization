@@ -15,3 +15,6 @@ The file Output.csv show my findings of the top 5 categories which were most pop
 
 # Presentation
 Social_buzz_presentation.pdf is a powerpoint slide which I developed to show my insights and findings to the internal stakeholders to recommend business strategies. 
+
+# Tools and platforms
+I used Advaned excell and python to clean the dataset and visualize the relationship between variables and dataset. SQL was used to identify the top 5 most popular categories at the social buzz platform.
