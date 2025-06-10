@@ -1,7 +1,9 @@
 # Dataset files
 
 Reactions.csv  :  A dataset consisting of the reactions made by the user
+
 Content_updated.csv  :  A dataset consisting of the content uploaded by the users
+
 Reaction_types.csv  :  A dataset conssiting of the type of reactions and their score
 
 # Goal
